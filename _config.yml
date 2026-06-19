@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Arifulla Syed"
+author: "arif"
+description: "IISc Bengaluru"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
